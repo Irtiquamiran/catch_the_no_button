@@ -13,7 +13,7 @@ A fun little Python Tkinter project where the "No" button runs away whenever you
 
 ## Screenshot
 
-(Add a screenshot here)
+![App Screenshot](Screenshot%202026-06-23%20at%2012.45.32.png)
 
 ## Run
 
